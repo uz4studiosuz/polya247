@@ -1,0 +1,6 @@
+{
+  "name": "Polya 24/7",
+  "description": "Futbol maydonlarini 24/7 onlayn band qilish va boshqarish platformasining premium interaktiv taqdimoti va landing sahifasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
